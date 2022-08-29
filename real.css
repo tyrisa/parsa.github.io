@@ -1,0 +1,59 @@
+body,
+html{
+	height: 100;
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(https://www.itl.cat/pngfile/big/258-2580775_star-wars-wallpaper-funny-hd-wallpaper-1920x1080-hd.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+h1{
+	font-size: 3rem;
+	color:#0E0E0C ;
+}
+
+
+hr{
+	border-color:#0E0E0C ;
+	border-width: 3px;
+	max-width: 100px;
+
+}
+
+.btn-dark{
+	color: ;
+	background-color:#0E0E0C;
+	border-color: #0E0E0C ;
+}
+.btn-dark:hover{
+	background-color:#090809 ;
+	border-color:#090809 ;
+	border-width: 5px;
+}
+
+.btn-xl{
+	padding: 1rem 2rem;
+}
+
+.btn{
+	font-weight: 600;
+	border-radius: 300px;
+	text-transform: uppercase;
+	border-width: 10px;
+	
+}	
+
+
+
+.buffer{
+	height: 30rem;
+}
+button:hover{
+	background-color:#0E0E0C;
+	border-color: #0E0E0C ;
+}
